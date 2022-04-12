@@ -1,7 +1,7 @@
 body {margin: 0;}
 
 .home{
-    background-image: url("assets/TorontoSkylineNight.jpg");
+    background-image: url("Assets/TorontoSkylineNight.jpg");
     background-color: #cccccc;
     background-repeat: no-repeat;
     background-attachment: fixed;
