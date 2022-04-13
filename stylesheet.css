@@ -1,4 +1,4 @@
-body {margin: 0;}
+body {margin: 50px;}
 
 .home{
     background-image: url("Assets/About/Artboard 1.png");
@@ -24,7 +24,7 @@ ul.topnav {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(230, 230, 230);
+  background-color: white;
 }
 
 ul.topnav li {float: right;}
