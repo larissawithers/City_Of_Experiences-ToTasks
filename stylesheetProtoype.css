@@ -6,7 +6,7 @@
 .item2 { 
         grid-area: menu; 
         color: white;
-        margin: 10px;
+        text-align: center;
 }
 .item3 { grid-area: main; }
 .item4 { grid-area: right; }
@@ -18,7 +18,10 @@
 }
 .item6 { grid-area: menu2; 
     color: white;
-    margin: 10px;}
+    margin: 10px;
+    text-align: center;
+}
+
 
 .grid-container {
   display: grid;
@@ -56,10 +59,10 @@
 
 h1{
     font-family: 'Pacifico', cursive;
-    font-size: 35px;
+    font-size: 80px;
 }
 
 p{
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 15px;
+    font-size: 50px;
 }
