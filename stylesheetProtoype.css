@@ -12,7 +12,7 @@
 .item4 { grid-area: right; }
 .item5 { 
     grid-area: footer; 
-    width: 60%;
+    width: 100%;
     height: auto;
     align-items: center;
 }
@@ -35,9 +35,9 @@
   display: grid;
   grid-template-areas:
     'header header header header header header'
-    'menu main main main right right'
-    'menu2 under under under right right'
-    'menu2 footer footer footer right right';
+    'menu menu main main right right'
+    'menu2 menu2 under under right right'
+    'menu2 menu2 footer footer right right';
   gap: 10px;
   padding: 10px;
 }
