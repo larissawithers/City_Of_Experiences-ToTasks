@@ -7,8 +7,10 @@
         grid-area: menu; 
         color: white;
         text-align: center;
+        margin: 10px;
 }
-.item3 { grid-area: main; }
+.item3 { grid-area: main; 
+    margin: 10px;}
 .item4 { grid-area: right; }
 .item5 { 
     grid-area: footer; 
